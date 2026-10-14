@@ -8,7 +8,7 @@ One RGB triangle, one square, one hexagon, one circle .
 
 ## Requirements
 
-- Node.js 18 or later (tested with Node 24)
+- Node.js 18 or later (tested with Node 20)
 - npm
 - A browser with WebGL2 support
 
